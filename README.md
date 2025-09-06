@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @funebra
 - 👀 I’m interested in math and science
-- 🌱 I’m currently learning html, css & javascript
+- 🌱 I’m currently an advanced user in html, css & javascript
 - 💞️ I’m looking to collaborate on graphic engineering
 - 📫 How to reach me mailto://plabsfilters@gmail.com
 

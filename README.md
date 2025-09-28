@@ -2,6 +2,14 @@
 
 ![Funebra Banner](https://raw.githubusercontent.com/funebra/funebra/main/assets/og/funebra-support.png)
 
+<!-- Badges -->
+![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?logo=javascript)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+[![Live Demo](https://img.shields.io/badge/Demo-Online-brightgreen)](https://funebra.github.io/math-art-engine/)
+[![Docs](https://img.shields.io/badge/Docs-Math%20Helpers-orange)](https://funebra.github.io/math-art-engine/math-helpers/)
+[![Support Funebra](https://img.shields.io/badge/Donate-Support%20Us-red)](https://plabsfill.com/donate.html)
+
+
 🎨 **Funebra Math-Art Engine** — Hackable, browser-based geometry + generative-art tool.  
 Turn formulas into living art, export 2D/3D shapes, and even 3D print them.  
 

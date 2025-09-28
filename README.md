@@ -1,7 +1,6 @@
 # 👋 Welcome to Funebra
 
-
-
+![Funebra Banner](https://raw.githubusercontent.com/funebra/funebra/main/assets/og/funebra-support.png)
 
 🎨 **Funebra Math-Art Engine** — Hackable, browser-based geometry + generative-art tool.  
 Turn formulas into living art, export 2D/3D shapes, and even 3D print them.  
@@ -10,6 +9,8 @@ Turn formulas into living art, export 2D/3D shapes, and even 3D print them.
 
 ## 🚀 Featured Project
 🔗 [Funebra Math-Art Engine](https://github.com/funebra/math-art-engine)  
+Live Demo → [funebra.github.io/math-art-engine](https://funebra.github.io/math-art-engine/)  
+
 Create **stars, polygons, spirographs, Lissajous, rose curves** and more.  
 Export to **OBJ / GLTF / 3MF** for 3D printing.
 
@@ -25,6 +26,15 @@ Funebra bridges **math, art, and fabrication** — from simple formulas to real-
 Help us grow and keep building new features:  
 👉 [Donate on plabsfill.com](https://plabsfill.com/donate.html)
 
+---
+
+## 🌐 Connect
+- 🌍 Website: [plabsfill.com](https://plabsfill.com/)  
+- 📘 Docs: [Math Helpers](https://funebra.github.io/math-art-engine/math-helpers/)  
+- 🧾 Certificate: `Funebra_Certificate_Deluxe.pdf`  
+
+---
+© 2025 · pLabs Entertainment · Funebra
 ---
 
 ## 🌐 Connect

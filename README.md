@@ -1,6 +1,6 @@
 # 👋 Welcome to Funebra
 
-![Support Funebra](https://raw.githubusercontent.com/funebra/funebra/main/assets/og/funebra-support.png)
+![Support Funebra](https://funebra.github.io/funebra/funebra/main/assets/og/funebra-support.png)
 
 
 🎨 **Funebra Math-Art Engine** — Hackable, browser-based geometry + generative-art tool.  
